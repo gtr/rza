@@ -1,4 +1,3 @@
-# colt
-vim colorscheme [wip]
+rza: a minimalistic dark colorscheme for vim
 
-![](example.jpg)
+![](rza.png)
