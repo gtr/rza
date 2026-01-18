@@ -1,3 +1,4 @@
-rza: a minimalistic dark colorscheme for vim
+rza: a minimal dark colorscheme for `nvim` loosely inspired by `murphy`
 
 ![](rza.png)
+
